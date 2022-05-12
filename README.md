@@ -3,7 +3,7 @@
 ### Установка
 Сразу нужно клонировать репозиторий
 
-     git clone --recursive https://github.com/roman-korostelev/cuddly-tg.git && cd tg
+     git clone --recursive https://github.com/roman-korostelev/cuddly-tg.git && cd cuddly-tg
 
 
 Далее нужно установить все необходимые библиотеки 
